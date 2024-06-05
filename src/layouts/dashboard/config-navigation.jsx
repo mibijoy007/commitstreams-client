@@ -2,7 +2,7 @@ import CodeOutlinedIcon from '@mui/icons-material/CodeOutlined';
 import SourceOutlinedIcon from '@mui/icons-material/SourceOutlined';
 import RssFeedOutlinedIcon from '@mui/icons-material/RssFeedOutlined';
 
-import SvgColor from '../../components/svg-color';
+import SvgColor from 'src/components/svg-color';
 
 // ----------------------------------------------------------------------
 
