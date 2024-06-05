@@ -4,10 +4,11 @@ import Stack from '@mui/material/Stack';
 import Button from '@mui/material/Button';
 import { alpha, useTheme } from '@mui/material/styles';
 
-import { bgGradient } from 'src/theme/css';
+import { bgGradient } from '../../theme/css';
 
-// import Logo from 'src/components/logo';
-import Iconify from 'src/components/iconify';
+// import Logo from '../../components/logo';
+
+import Iconify from '../../components/iconify';
 
 // ----------------------------------------------------------------------
 

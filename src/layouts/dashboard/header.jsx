@@ -7,17 +7,17 @@ import Toolbar from '@mui/material/Toolbar';
 import { useTheme } from '@mui/material/styles';
 import IconButton from '@mui/material/IconButton';
 
-import { useResponsive } from 'src/hooks/use-responsive';
-
-import { bgBlur } from 'src/theme/css';
-
-import Iconify from 'src/components/iconify';
+import { bgBlur } from '../../theme/css';
+import Iconify from '../../components/iconify';
+import { useResponsive } from '../../hooks/use-responsive';
 
 // import Searchbar from './common/searchbar';
+
 import { NAV, HEADER } from './config-layout';
 import AccountPopover from './common/account-popover';
 import LanguagePopover from './common/language-popover';
 import NotificationsPopover from './common/notifications-popover';
+// import { useResponsive } from 'src/hooks/use-responsive';
 
 // ----------------------------------------------------------------------
 
